@@ -1,9 +1,3 @@
-# Scientific-Computing-with-Python--FreeCodeCamp
+# Arithmetic Formatter
 
-This repository contains my solutions to the Scientific Computing with Python projects from [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
-
-- Arithmetic Formatter
-- Time Calculator
-- Budget App
-- Polygon Area Calculator
-- Probability Calculator
+This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
